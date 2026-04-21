@@ -25,7 +25,7 @@
   <a href="https://roadmap.sh/u/pialmahmud" target="_blank">
     <img src="https://img.shields.io/badge/Roadmap.sh-FC4349?style=for-the-badge&logo=targetprocess&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:mahmudpial6@gmail.com" target="_blank">
+  <a href="mailto:pialmahmud80@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="tel:+8801853754763" target="_blank">
@@ -208,18 +208,6 @@ Production-ready platform closing the information gap in Bangladesh's agricultur
 
 ---
 
-<details>
-<summary><strong>🛒 4 · E-Commerce System with Laravel</strong> — <a href="https://github.com/mahmudpial/Ecommerce_project_with_laravel">GitHub ↗</a></summary>
-<br/>
-
-> **Stack:** Laravel · PHP · MySQL · Blade · Bootstrap · SSLCommerz Payment Gateway
-
-Full-featured e-commerce platform with bifurcated admin/customer architecture, custom routing, **SSLCommerz payment integration**, wishlist management, product reviews & ratings, cart, order history, and invoice generation.
-
-</details>
-
----
-
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 ## 📊 GitHub Stats
@@ -256,7 +244,7 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, c
 |--------|-------------|------|--------|
 | **BSc in Computer Science & Engineering** | Daffodil International University, Dhaka | 2018 – 2023 | CGPA: **3.14 / 5.00** |
 | **HSC Science** | Rajbari Govt. College | 2015 – 2017 | GPA: **4.92 / 5.00** |
-| **SSC Science** | — | — | GPA: **5.00 / 5.00** |
+| **SSC Science** | Goalunda Nazir Uddin Pilot Govt High School | 2013-2015 | GPA: **5.00 / 5.00** |
 
 > 📚 Coursework: Data Structures & Algorithms · DBMS · Artificial Intelligence · Embedded Systems · Engineering Mathematics · Data Mining · Web Development · OOP
 
@@ -314,7 +302,7 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, c
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pial-mahmud/)
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-and-blog-app-fontend.vercel.app/)
-[![Email](https://img.shields.io/badge/mahmudpial6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudpial6@gmail.com)
+[![Email](https://img.shields.io/badge/pialmahmud80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudpial6@gmail.com)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-FC4349?style=for-the-badge&logo=targetprocess&logoColor=white)](https://roadmap.sh/u/pialmahmud)
 
 <br/>
