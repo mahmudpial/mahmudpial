@@ -4,59 +4,51 @@
 
 <div align="center">
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   ANIMATED HEADER — venom wave with deep purple-violet gradient   -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   HEADER — dark blue gradient, bright white/cyan text              -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03001c,25:08012e,50:120338,75:1a0550,100:08012e&height=240&section=header&text=PIAL%20MAHMUD&fontSize=76&fontColor=c084fc&fontAlignY=40&desc=%E2%97%A6%20Full%20Stack%20Web%20Developer%20%E2%97%A6&descAlignY=62&descSize=20&descColor=a78bfa&animation=fadeIn&stroke=6d28d9&strokeWidth=1.5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000d1a,20:001833,45:002a52,70:003066,100:001433&height=250&section=header&text=PIAL%20MAHMUD&fontSize=76&fontColor=e0f2fe&fontAlignY=40&desc=%E2%97%A6%20Full%20Stack%20Web%20Developer%20%E2%97%A6&descAlignY=63&descSize=20&descColor=7dd3fc&animation=fadeIn&stroke=0ea5e9&strokeWidth=1.5" />
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   STATUS BADGE — always visible, animated dot                     -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
-<a href="https://www.linkedin.com/in/pial-mahmud/"><img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-000000?style=for-the-badge&labelColor=000000&color=6d28d9" /></a>
+<!-- STATUS BADGE -->
+<a href="https://www.linkedin.com/in/pial-mahmud/">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-001433?style=for-the-badge&labelColor=001433&color=0369a1" />
+</a>
 
 <br/><br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   ANIMATED TYPING SVG — cycles through roles                      -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&lines=Laravel+%2B+Vue.js+Full+Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Web+Applications+%E2%9A%99%EF%B8%8F;RESTful+APIs+%7C+E-Commerce+%7C+JWT+Auth+%F0%9F%94%90;Repository+Pattern+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;BSc+CSE+%E2%80%94+Daffodil+International+University+%F0%9F%8E%93;Clean+Code+%C2%B7+Real+Solutions+%C2%B7+Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION — text colour matches header cyan/sky palette -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&lines=Laravel+%2B+Vue.js+Full+Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Web+Applications+%E2%9A%99%EF%B8%8F;RESTful+APIs+%7C+E-Commerce+%7C+JWT+Auth+%F0%9F%94%90;Repository+Pattern+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;BSc+CSE+%E2%80%94+Daffodil+International+University+%F0%9F%8E%93;Clean+Code+%C2%B7+Real+Solutions+%C2%B7+Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   SOCIAL LINKS — styled for-the-badge with hover-friendly icons   -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pial-mahmud/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-and-blog-app-fontend.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0c1a2e?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://portfolio-and-blog-app-fontend.vercel.app/)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-FC4349?style=for-the-badge&logo=target&logoColor=white)](https://roadmap.sh/u/pialmahmud)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudpial6@gmail.com)
+[![Gmail](https://img.shields.io/badge/pialmahmud80%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pialmahmud80@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+880--1853--754763-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801853754763)
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   ANIMATED INFO PILLS                                             -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahmudpial&label=👁%20Profile%20Views&color=6d28d9&style=flat)
-![Followers](https://img.shields.io/github/followers/mahmudpial?label=★%20Followers&style=flat&color=6d28d9)
-![Focus](https://img.shields.io/badge/⚡%20Focus-Laravel%20%26%20Vue.js-6d28d9?style=flat)
-![Location](https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Bangladesh-6d28d9?style=flat)
-![Experience](https://img.shields.io/badge/💼%20Experience-2%2B%20Years-6d28d9?style=flat)
+<!-- INFO PILLS — sky-blue accent -->
+![Profile Views](https://komarev.com/ghpvc/?username=mahmudpial&label=👁%20Profile%20Views&color=0369a1&style=flat)
+![Followers](https://img.shields.io/github/followers/mahmudpial?label=★%20Followers&style=flat&color=0369a1)
+![Focus](https://img.shields.io/badge/⚡%20Focus-Laravel%20%26%20Vue.js-0369a1?style=flat)
+![Location](https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Bangladesh-0369a1?style=flat)
+![Experience](https://img.shields.io/badge/💼%20Experience-2%2B%20Years-0369a1?style=flat)
 
 </div>
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   ABOUT ME — PHP class aesthetic with GIF                         -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   WHOAMI — extra top margin on GIF for breathing room             -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="340" style="margin-top:40px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br/><br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> whoami
 
@@ -69,23 +61,23 @@ class PialMahmud extends FullStackDeveloper
     public string $role     = "Full Stack Web Developer";
     public string $company  = "Byte Engineer";
     public string $location = "Dhaka, Bangladesh 🇧🇩";
-    public string $email    = "mahmudpial6@gmail.com";
+    public string $email    = "pialmahmud80@gmail.com";
     public string $phone    = "+880-1853-754763";
     public string $degree   = "BSc CSE — Daffodil International University";
     public string $cgpa     = "3.14 / 5.00";
 
     public array $stack = [
-        "backend"   => ["PHP", "Laravel 11/12", "Node.js", "REST API", "JWT", "Sanctum"],
+        "backend"   => ["PHP", "Laravel 11/12", "Node.js", "REST API", "JWT"],
         "frontend"  => ["Vue.js 3", "React.js", "Inertia.js", "Alpine.js", "Tailwind CSS"],
         "database"  => ["MySQL", "Eloquent ORM", "Eager Loading", "Aiven Cloud MySQL"],
         "payments"  => ["SSLCommerz", "Wishlist", "Cart", "Order History", "Invoicing"],
-        "devops"    => ["Git", "GitHub", "Docker", "Vercel", "Railway", "Netlify", "Vite"],
+        "devops"    => ["Git", "Docker", "Vercel", "Railway", "Netlify", "Vite"],
         "patterns"  => ["Repository Pattern", "MVC", "OOP", "JWT Auth", "CSRF"],
     ];
 
     public array $currentlyDoing = [
         "💼 Web Developer at Byte Engineer (2023–Present)",
-        "📚 Full Stack PHP + Laravel + Vue.js course at Ostad",
+        "📚 Full Stack PHP + Laravel + Vue.js at Ostad",
         "🏗️  Mastering Repository Pattern & Clean Architecture",
         "🚀  Building production e-commerce & SaaS platforms",
     ];
@@ -94,7 +86,7 @@ class PialMahmud extends FullStackDeveloper
         "I solve N+1 query problems before breakfast ☕";
 
     public function contact(): string {
-        return "mahmudpial6@gmail.com";
+        return "pialmahmud80@gmail.com";
     }
 }
 ```
@@ -103,9 +95,9 @@ class PialMahmud extends FullStackDeveloper
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   GITHUB STATS — equal-width table layout, same row height        -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   GITHUB STATS — equal-width table, consistent card heights        -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
 ## 📊 GitHub Statistics
 
@@ -114,32 +106,93 @@ class PialMahmud extends FullStackDeveloper
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mahmudpial&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mahmudpial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudpial&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&card_width=400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudpial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmudpial&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa" />
+      <img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmudpial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&sideLabels=38bdf8" />
     </td>
   </tr>
 </table>
 
-<!-- Contribution Activity Graph — full width -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudpial&bg_color=0d0d1a&color=a78bfa&line=6d28d9&point=c084fc&area=true&hide_border=true&area_color=3b0764&custom_title=Contribution%20Activity" />
+<!-- Contribution graph -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudpial&bg_color=0d1117&color=38bdf8&line=0369a1&point=7dd3fc&area=true&hide_border=true&area_color=0c2a4a&custom_title=Contribution%20Activity" />
 
-<!-- GitHub Trophy -->
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=mahmudpial&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6" />
+<!-- Trophies -->
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=mahmudpial&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
 
 </div>
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   WORK EXPERIENCE                                                  -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   SNAKE GAME — contribution graph eating animation                 -->
+<!--   Generated by: github.com/Platane/snk                             -->
+<!--   Setup: Add GitHub Action (see instructions below README)          -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmudpial/mahmudpial/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmudpial/mahmudpial/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmudpial/mahmudpial/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> ⚙️ **To activate the snake:** Go to your `mahmudpial/mahmudpial` repo → **Actions** tab → **New workflow** → paste the workflow below and commit. The snake will auto-generate every 24 hours.
+>
+> <details>
+> <summary>📋 Click to copy GitHub Actions workflow</summary>
+>
+> Create file: `.github/workflows/snake.yml`
+>
+> ```yaml
+> name: Generate Snake Animation
+>
+> on:
+>   schedule:
+>     - cron: "0 */24 * * *"
+>   workflow_dispatch:
+>
+> jobs:
+>   generate:
+>     permissions:
+>       contents: write
+>     runs-on: ubuntu-latest
+>     timeout-minutes: 10
+>     steps:
+>       - name: generate github-contribution-grid-snake.svg
+>         uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>
+>       - name: push github-contribution-grid-snake.svg to the output branch
+>         uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+>
+> </details>
+
+---
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   WORK EXPERIENCE                                                   -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
 ## 💼 Work Experience
 
@@ -164,9 +217,9 @@ class PialMahmud extends FullStackDeveloper
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   TECH STACK                                                       -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   TECH STACK                                                        -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
 ## 🛠️ Tech Stack
 
@@ -215,16 +268,16 @@ class PialMahmud extends FullStackDeveloper
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   FEATURED PROJECTS                                               -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   FEATURED PROJECTS — portfolio-blog-app is now #1                 -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=Ecommerce_project_with_laravel&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=portfolio-and-blog-app-fontend&theme=tokyonight&hide_border=true" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=Job_Portal_Appliction_Laravel&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=Ecommerce_project_with_laravel&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -312,10 +365,6 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   EDUCATION                                                        -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
 ## 🎓 Education
 
 <div align="center">
@@ -331,10 +380,6 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 > 📚 **Coursework:** Data Structures & Algorithms · DBMS · Artificial Intelligence · Embedded Systems · Engineering Mathematics · Data Mining · Web Development · OOP
 
 ---
-
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   CERTIFICATIONS                                                   -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
 
 ## 🏅 Certifications & Achievements
 
@@ -352,10 +397,6 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   VOLUNTEER                                                        -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
 ## 🌱 Volunteer & Community Impact
 
 **🤝 Active Member — [Ekoj Jagorone](https://www.facebook.com/ekoj.jagorone)** &nbsp;·&nbsp; *2010 – Present*
@@ -369,14 +410,10 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 ## 🗣️ Languages
 
-![Bengali](https://img.shields.io/badge/Bengali-Native%20Speaker-6d28d9?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional%20Proficiency-5b21b6?style=for-the-badge)
+![Bengali](https://img.shields.io/badge/Bengali-Native%20Speaker-0369a1?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional%20Proficiency-0284c7?style=for-the-badge)
 
 ---
-
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   CONNECT                                                          -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
 
 ## 🤝 Let's Build Something Together
 
@@ -387,8 +424,8 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pial-mahmud/)
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-and-blog-app-fontend.vercel.app/)
-[![Email](https://img.shields.io/badge/mahmudpial6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudpial6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0c1a2e?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://portfolio-and-blog-app-fontend.vercel.app/)
+[![Email](https://img.shields.io/badge/pialmahmud80%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pialmahmud80@gmail.com)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh%20Profile-FC4349?style=for-the-badge&logo=target&logoColor=white)](https://roadmap.sh/u/pialmahmud)
 
 <br/>
@@ -399,16 +436,17 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!--   ANIMATED FOOTER BANNER                                          -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!--   FOOTER — dark blue gradient matching header, bright text         -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:08012e,25:0d0235,50:120338,75:08012e,100:03001c&height=160&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=32&fontColor=a78bfa&animation=fadeIn&desc=Star%20my%20repos%20if%20you%20find%20them%20useful!&descColor=7c3aed&descSize=15&descAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:001433,25:002a52,50:003066,75:002a52,100:001433&height=170&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=32&fontColor=e0f2fe&animation=fadeIn&desc=📧%20pialmahmud80%40gmail.com%20%20%7C%20%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descColor=7dd3fc&descSize=14&descAlignY=74" />
 
 <div align="center">
   <sub>
-    Crafted with 💜 by <a href="https://github.com/mahmudpial"><b>Pial Mahmud</b></a>
+    Crafted with 💙 by <a href="https://github.com/mahmudpial"><b>Pial Mahmud</b></a>
     &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩
-    &nbsp;·&nbsp; <a href="https://portfolio-and-blog-app-fontend.vercel.app/">portfolio-and-blog-app-fontend.vercel.app</a>
+    &nbsp;·&nbsp; 📧 <a href="mailto:pialmahmud80@gmail.com">pialmahmud80@gmail.com</a>
+    &nbsp;·&nbsp; <a href="https://portfolio-and-blog-app-fontend.vercel.app/">portfolio ↗</a>
   </sub>
 </div>
