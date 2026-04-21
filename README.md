@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- typing animation — sky-400 to match header accent -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=1000&color=1E40AF8&center=true&vCenter=true&width=700&lines=Laravel+%2B+Vue.js+Full+Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Web+Applications+%E2%9A%99%EF%B8%8F;RESTful+APIs+%7C+E-Commerce+%7C+JWT+Auth+%F0%9F%94%90;Repository+Pattern+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;BSc+CSE+%E2%80%94+Daffodil+International+University+%F0%9F%8E%93;Clean+Code+%C2%B7+Real+Solutions+%C2%B7+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=1000&color=075985&center=true&vCenter=true&width=700&lines=Laravel+%2B+Vue.js+Full+Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Web+Applications+%E2%9A%99%EF%B8%8F;RESTful+APIs+%7C+E-Commerce+%7C+JWT+Auth+%F0%9F%94%90;Repository+Pattern+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;BSc+CSE+%E2%80%94+Daffodil+International+University+%F0%9F%8E%93;Clean+Code+%C2%B7+Real+Solutions+%C2%B7+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
