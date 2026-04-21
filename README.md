@@ -1,56 +1,64 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   PIAL MAHMUD · GitHub Profile README · Full Stack Web Developer  -->
+<!--        PIAL MAHMUD  ·  GitHub Profile README                      -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   HEADER — dark blue gradient, bright white/cyan text              -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  HEADER BANNER
+  Dark royal-blue gradient · bright white-gold text
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0a1628,55:0d2137,80:102a45,100:0a1e35&height=260&section=header&text=PIAL%20MAHMUD&fontSize=78&fontColor=f0f9ff&fontAlignY=38&fontAlign=50&desc=%E2%8E%AF%20%20Full%20Stack%20Web%20Developer%20%20%E2%8E%AF&descSize=21&descColor=bae6fd&descAlignY=60&descAlign=50&animation=fadeIn&stroke=38bdf8&strokeWidth=1" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000d1a,20:001833,45:002a52,70:003066,100:001433&height=250&section=header&text=PIAL%20MAHMUD&fontSize=76&fontColor=e0f2fe&fontAlignY=40&desc=%E2%97%A6%20Full%20Stack%20Web%20Developer%20%E2%97%A6&descAlignY=63&descSize=20&descColor=7dd3fc&animation=fadeIn&stroke=0ea5e9&strokeWidth=1.5" />
-
-<!-- STATUS BADGE -->
-<a href="https://www.linkedin.com/in/pial-mahmud/">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-001433?style=for-the-badge&labelColor=001433&color=0369a1" />
-</a>
+<!-- availability pill -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20%20Available%20for%20Opportunities-0a1e35?style=for-the-badge&labelColor=0a1e35&color=0369a1&logoColor=38bdf8" />
 
 <br/><br/>
 
-<!-- TYPING ANIMATION — text colour matches header cyan/sky palette -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&lines=Laravel+%2B+Vue.js+Full+Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Web+Applications+%E2%9A%99%EF%B8%8F;RESTful+APIs+%7C+E-Commerce+%7C+JWT+Auth+%F0%9F%94%90;Repository+Pattern+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;BSc+CSE+%E2%80%94+Daffodil+International+University+%F0%9F%8E%93;Clean+Code+%C2%B7+Real+Solutions+%C2%B7+Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<!-- typing animation — sky-400 to match header accent -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Laravel+%2B+Vue.js+Full+Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Web+Applications+%E2%9A%99%EF%B8%8F;RESTful+APIs+%7C+E-Commerce+%7C+JWT+Auth+%F0%9F%94%90;Repository+Pattern+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;BSc+CSE+%E2%80%94+Daffodil+International+University+%F0%9F%8E%93;Clean+Code+%C2%B7+Real+Solutions+%C2%B7+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pial-mahmud/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0c1a2e?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://portfolio-and-blog-app-fontend.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d2137?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://portfolio-and-blog-app-fontend.vercel.app/)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-FC4349?style=for-the-badge&logo=target&logoColor=white)](https://roadmap.sh/u/pialmahmud)
 [![Gmail](https://img.shields.io/badge/pialmahmud80%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pialmahmud80@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+880--1853--754763-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801853754763)
+[![WhatsApp](https://img.shields.io/badge/%2B880--1853--754763-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801853754763)
 
 <br/>
 
-<!-- INFO PILLS — sky-blue accent -->
-![Profile Views](https://komarev.com/ghpvc/?username=mahmudpial&label=👁%20Profile%20Views&color=0369a1&style=flat)
-![Followers](https://img.shields.io/github/followers/mahmudpial?label=★%20Followers&style=flat&color=0369a1)
-![Focus](https://img.shields.io/badge/⚡%20Focus-Laravel%20%26%20Vue.js-0369a1?style=flat)
-![Location](https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Bangladesh-0369a1?style=flat)
-![Experience](https://img.shields.io/badge/💼%20Experience-2%2B%20Years-0369a1?style=flat)
+<!-- info pills -->
+![](https://komarev.com/ghpvc/?username=mahmudpial&label=Profile+Views&color=0369a1&style=flat)
+&nbsp;
+![](https://img.shields.io/github/followers/mahmudpial?label=Followers&style=flat&color=0369a1)
+&nbsp;
+![](https://img.shields.io/badge/⚡_Focus-Laravel_%26_Vue.js-0369a1?style=flat)
+&nbsp;
+![](https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-0369a1?style=flat)
+&nbsp;
+![](https://img.shields.io/badge/💼_Experience-2%2B_Years-0369a1?style=flat)
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   WHOAMI — extra top margin on GIF for breathing room             -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WHOAMI  ·  two-column table layout (no float)
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
-<img align="right" alt="Coding" width="340" style="margin-top:40px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" valign="middle"> &nbsp;whoami
 
-<br/><br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> whoami
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ```php
 <?php
@@ -63,27 +71,32 @@ class PialMahmud extends FullStackDeveloper
     public string $location = "Dhaka, Bangladesh 🇧🇩";
     public string $email    = "pialmahmud80@gmail.com";
     public string $phone    = "+880-1853-754763";
-    public string $degree   = "BSc CSE — Daffodil International University";
+    public string $degree   =
+        "BSc CSE — Daffodil International Uni";
     public string $cgpa     = "3.14 / 5.00";
 
     public array $stack = [
-        "backend"   => ["PHP", "Laravel 11/12", "Node.js", "REST API", "JWT"],
-        "frontend"  => ["Vue.js 3", "React.js", "Inertia.js", "Alpine.js", "Tailwind CSS"],
-        "database"  => ["MySQL", "Eloquent ORM", "Eager Loading", "Aiven Cloud MySQL"],
-        "payments"  => ["SSLCommerz", "Wishlist", "Cart", "Order History", "Invoicing"],
-        "devops"    => ["Git", "Docker", "Vercel", "Railway", "Netlify", "Vite"],
-        "patterns"  => ["Repository Pattern", "MVC", "OOP", "JWT Auth", "CSRF"],
+      "backend"  => ["PHP","Laravel 11/12","Node.js",
+                     "REST API","JWT","Sanctum"],
+      "frontend" => ["Vue.js 3","React.js","Inertia.js",
+                     "Alpine.js","Tailwind CSS"],
+      "database" => ["MySQL","Eloquent ORM",
+                     "Aiven Cloud MySQL"],
+      "devops"   => ["Git","Docker","Vercel",
+                     "Railway","Netlify","Vite"],
+      "patterns" => ["Repository Pattern","MVC",
+                     "OOP","CSRF"],
     ];
 
-    public array $currentlyDoing = [
-        "💼 Web Developer at Byte Engineer (2023–Present)",
-        "📚 Full Stack PHP + Laravel + Vue.js at Ostad",
-        "🏗️  Mastering Repository Pattern & Clean Architecture",
-        "🚀  Building production e-commerce & SaaS platforms",
+    public array $now = [
+        "💼 Web Developer @ Byte Engineer",
+        "📚 Full Stack PHP+Laravel+Vue.js (Ostad)",
+        "🏗️  Mastering Clean Architecture",
+        "🚀  Building production SaaS apps",
     ];
 
     public string $funFact =
-        "I solve N+1 query problems before breakfast ☕";
+        "I fix N+1 queries before breakfast ☕";
 
     public function contact(): string {
         return "pialmahmud80@gmail.com";
@@ -91,125 +104,21 @@ class PialMahmud extends FullStackDeveloper
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="42%">
 
----
+<br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   GITHUB STATS — equal-width table, consistent card heights        -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" style="border-radius:12px;" />
 
-## 📊 GitHub Statistics
+<br/><br/>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mahmudpial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudpial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmudpial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&sideLabels=38bdf8" />
-    </td>
-  </tr>
-</table>
-
-<!-- Contribution graph -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudpial&bg_color=0d1117&color=38bdf8&line=0369a1&point=7dd3fc&area=true&hide_border=true&area_color=0c2a4a&custom_title=Contribution%20Activity" />
-
-<!-- Trophies -->
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=mahmudpial&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
-
-</div>
-
----
-
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   SNAKE GAME — contribution graph eating animation                 -->
-<!--   Generated by: github.com/Platane/snk                             -->
-<!--   Setup: Add GitHub Action (see instructions below README)          -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmudpial/mahmudpial/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmudpial/mahmudpial/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmudpial/mahmudpial/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> ⚙️ **To activate the snake:** Go to your `mahmudpial/mahmudpial` repo → **Actions** tab → **New workflow** → paste the workflow below and commit. The snake will auto-generate every 24 hours.
->
-> <details>
-> <summary>📋 Click to copy GitHub Actions workflow</summary>
->
-> Create file: `.github/workflows/snake.yml`
->
-> ```yaml
-> name: Generate Snake Animation
->
-> on:
->   schedule:
->     - cron: "0 */24 * * *"
->   workflow_dispatch:
->
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     timeout-minutes: 10
->     steps:
->       - name: generate github-contribution-grid-snake.svg
->         uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->
->       - name: push github-contribution-grid-snake.svg to the output branch
->         uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
->
-> </details>
-
----
-
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   WORK EXPERIENCE                                                   -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
-## 💼 Work Experience
-
-<table>
-<tr>
-<td>
-
-### 🏢 Web Developer — Byte Engineer &nbsp; `2023 – Present`
-
-> *Dhaka, Bangladesh*
-
-- 🎨 Designed responsive, cross-browser-compatible UIs with HTML5, CSS3, Bootstrap & JavaScript
-- ⚙️ Developed & maintained **Laravel MVC** apps with MySQL and RESTful API endpoints consumed by frontend clients
-- 🔐 Integrated **JWT authentication** to secure API routes and manage user sessions effectively
-- 🚀 Optimised slow queries via indexing, eager loading & refactoring — measurable page load improvements
-- 🔀 Managed Git/GitHub workflows including branching strategies and pull request collaboration
-- 🧪 Conducted functional, integration & regression testing; resolved bugs before production releases
+![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -217,9 +126,40 @@ class PialMahmud extends FullStackDeveloper
 
 ---
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   TECH STACK                                                        -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WORK EXPERIENCE
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td>
+
+### 🏢 Web Developer &nbsp;—&nbsp; Byte Engineer &nbsp;&nbsp; `2023 – Present`
+
+> Dhaka, Bangladesh
+
+- 🎨 Built responsive, cross-browser UIs using HTML5, CSS3, Bootstrap 5 & JavaScript ES6+
+- ⚙️ Developed & maintained **Laravel MVC** backends with MySQL and RESTful API endpoints
+- 🔐 Integrated **JWT authentication** to secure API routes and manage user sessions
+- 🚀 Improved page load times via query indexing, eager loading & refactoring
+- 🔀 Managed Git/GitHub workflows with branching strategies and PR collaboration
+- 🧪 Conducted functional, integration & regression testing pre-production
+
+</td>
+</tr>
+</table>
+
+---
+
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TECH STACK
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
 ## 🛠️ Tech Stack
 
@@ -242,7 +182,7 @@ class PialMahmud extends FullStackDeveloper
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **🗄️ Database & Cloud**
@@ -268,38 +208,77 @@ class PialMahmud extends FullStackDeveloper
 
 ---
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   FEATURED PROJECTS — portfolio-blog-app is now #1                 -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  GITHUB STATISTICS
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mahmudpial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudpial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmudpial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&sideLabels=38bdf8" />
+    </td>
+  </tr>
+</table>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudpial&bg_color=0d1117&color=38bdf8&line=0369a1&point=7dd3fc&area=true&hide_border=true&area_color=0c2a4a&custom_title=Contribution%20Activity" />
+
+<img width="97%" src="https://github-profile-trophy.vercel.app/?username=mahmudpial&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
+
+</div>
+
+---
+
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  FEATURED PROJECTS  ·  #1 Portfolio  #2 Job Portal
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=portfolio-and-blog-app-fontend&theme=tokyonight&hide_border=true" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=Ecommerce_project_with_laravel&theme=tokyonight&hide_border=true" />
+
+[![Portfolio Blog App](https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=portfolio_and_blog_app_fontend&theme=tokyonight&hide_border=true)](https://github.com/mahmudpial/portfolio-and-blog-app-fontend)
+&nbsp;&nbsp;
+[![Job Portal](https://github-readme-stats.vercel.app/api/pin/?username=mahmudpial&repo=Job_Portal_Appliction_Laravel&theme=tokyonight&hide_border=true)](https://github.com/mahmudpial/Job_Portal_Appliction_Laravel)
+
 </div>
 
 <br/>
 
 <details open>
-<summary><b>🌐 1 · Portfolio &amp; Blog App</b> — <a href="https://portfolio-and-blog-app-fontend.vercel.app/">Live Demo ↗</a></summary>
+<summary><b>🌐 &nbsp;1 · Portfolio &amp; Blog App</b> &nbsp;—&nbsp; <a href="https://portfolio-and-blog-app-fontend.vercel.app/">Live Demo ↗</a></summary>
 <br/>
 
-> **Stack:** `Vue.js 3` `Tailwind CSS` `Axios` `Vue Router` `Laravel REST API` `MySQL` `JWT` `Vercel` `Railway` `Aiven`
+> **Stack:** &nbsp;`Vue.js 3` &nbsp;`Tailwind CSS` &nbsp;`Axios` &nbsp;`Vue Router` &nbsp;`Laravel REST API` &nbsp;`MySQL` &nbsp;`JWT` &nbsp;`Vercel` &nbsp;`Railway` &nbsp;`Aiven`
 
-Fully decoupled SPA — admin manages projects & blog posts; visitors browse via Vue.js talking exclusively to a Laravel REST API backed by Aiven cloud MySQL.
+Fully decoupled full-stack SPA. Admin dashboard provides CRUD for projects & blog posts. Visitors browse via Vue.js communicating exclusively through a secured Laravel REST API, data persisted in Aiven cloud MySQL.
 
 **✅ Key Achievements**
-- JWT-secured API with **role-based access control** — admin vs visitor separation
+- JWT-secured API with **role-based access control** separating admin and visitor capabilities
 - Deployed across **3 platforms**: Vercel (frontend) · Railway (backend) · Aiven (cloud MySQL)
 
-**🔧 Hard Engineering Problems Solved**
+**🔧 Engineering Challenges Solved**
+
 | Problem | Solution |
 |---------|----------|
-| CORS errors Vercel → Railway | Laravel CORS middleware with explicit allowed origins, methods, headers |
-| Silent logout on JWT expiry | Axios interceptors detect 401 → auto-refresh token → retry request |
-| Vue Router 404 on page refresh | `vercel.json` rewrite rules redirect all paths to `index.html` |
+| CORS errors Vercel → Railway | Laravel CORS middleware — explicit allowed origins, methods & headers |
+| Silent logout on JWT expiry | Axios interceptors: detect 401 → refresh token → retry request |
+| Vue Router 404 on Vercel page refresh | `vercel.json` rewrite rules — all routes redirect to `index.html` |
 | Aiven MySQL SSL connection failure | PDO SSL cert options configured in Laravel `database.php` |
 
 </details>
@@ -307,86 +286,100 @@ Fully decoupled SPA — admin manages projects & blog posts; visitors browse via
 ---
 
 <details open>
-<summary><b>💼 2 · Job Portal Application</b> — <a href="https://github.com/mahmudpial/Job_Portal_Appliction_Laravel">GitHub ↗</a></summary>
+<summary><b>💼 &nbsp;2 · Job Portal Application</b> &nbsp;—&nbsp; <a href="https://github.com/mahmudpial/Job_Portal_Appliction_Laravel">GitHub ↗</a></summary>
 <br/>
 
-> **Stack:** `Laravel MVC` `PHP` `MySQL` `Blade` `Bootstrap 5` `JavaScript` `Role-Based Auth` `File Uploads`
+> **Stack:** &nbsp;`Laravel MVC` &nbsp;`PHP` &nbsp;`MySQL` &nbsp;`Blade` &nbsp;`Bootstrap 5` &nbsp;`JavaScript` &nbsp;`Role-Based Auth` &nbsp;`File Uploads`
 
-3-role portal (Admin · Employer · Applicant). Employers post jobs; applicants upload CVs & track status; admins control everything from a dedicated panel.
-
-**✅ Key Achievements**
-- Middleware-protected route groups for **3-role auth** preventing any cross-role access
-- Full workflow: listing → filtering → applying → status tracking → admin review
-
-**🔧 Hard Engineering Problems Solved**
-| Problem | Solution |
-|---------|----------|
-| N+1 query on job listings | Eloquent eager loading — O(n) DB calls → fixed count |
-| File upload failures | `php artisan storage:link` + correct `filesystems.php` disk driver |
-| Employer routes accessible without auth | Wrapped in dedicated `auth + role:employer` middleware group |
-
-</details>
-
----
-
-<details open>
-<summary><b>🧅 3 · OnionTrade Pro — Agricultural Market Intelligence</b> — <a href="https://github.com/mahmudpial/onion-trading-app">GitHub ↗</a></summary>
-<br/>
-
-> **Stack:** `Laravel 11` `PHP 8.3` `Tailwind CSS` `Alpine.js` `Vite` `MySQL` `Repository Pattern` `CSRF`
-
-Production platform solving Bangladesh's agricultural information gap. Field agents log onion prices from regional markets; traders compare disparities and identify arbitrage in real time.
+Comprehensive 3-role job portal (Admin · Employer · Applicant). Employers post jobs with requirements; applicants upload CVs and track application status; admins manage all users and jobs from a dedicated control panel.
 
 **✅ Key Achievements**
-- Real-time smart dashboard with **live price tickers** across regional divisions
-- **Compare module** for visualising price disparities and arbitrage opportunities
-- Clean **Repository Pattern** separating business logic from controllers and DB
+- **3-role auth system** with middleware-protected route groups preventing unauthorized access
+- Full application workflow: listing → filtering → applying → status tracking → admin review
 
-**🔧 Hard Engineering Problems Solved**
+**🔧 Engineering Challenges Solved**
+
 | Problem | Solution |
 |---------|----------|
-| SQL degradation on large datasets | Eloquent eager loading + date-range query scopes |
-| PDF download security (exposed paths) | Hashed filenames + stored outside public dir + middleware-protected controller |
-| Alpine.js reactivity not updating on filter | Correctly scoped component data + `x-effect` to watch state |
+| N+1 query on job listings | Eloquent eager loading — O(n) DB calls reduced to fixed count |
+| File upload failures | `php artisan storage:link` + correct disk driver in `filesystems.php` |
+| Employer routes without auth | Wrapped in dedicated `auth + role:employer` middleware group |
 
 </details>
 
 ---
 
 <details>
-<summary><b>🛒 4 · E-Commerce System with Laravel</b> — <a href="https://github.com/mahmudpial/Ecommerce_project_with_laravel">GitHub ↗</a></summary>
+<summary><b>🧅 &nbsp;3 · OnionTrade Pro — Agricultural Market Intelligence</b> &nbsp;—&nbsp; <a href="https://github.com/mahmudpial/onion-trading-app">GitHub ↗</a></summary>
 <br/>
 
-> **Stack:** `Laravel` `PHP` `MySQL` `Blade` `Bootstrap` `SSLCommerz Payment Gateway`
+> **Stack:** &nbsp;`Laravel 11` &nbsp;`PHP 8.3` &nbsp;`Tailwind CSS` &nbsp;`Alpine.js` &nbsp;`Vite` &nbsp;`MySQL` &nbsp;`Repository Pattern` &nbsp;`CSRF`
 
-Full-featured e-commerce platform with bifurcated admin/customer architecture, SSLCommerz payments, wishlist management, product reviews & ratings, cart & checkout, order history, and invoice generation.
+Production-ready platform closing the information gap in Bangladesh's agricultural sector. Field agents log onion prices from regional markets; traders compare disparities and identify arbitrage opportunities in real time.
+
+**✅ Key Achievements**
+- Real-time dashboard with **live price tickers** and market trend indicators across divisions
+- **Compare module** for visualising price disparities and arbitrage opportunities
+- **Repository Pattern** architecture for clean separation of business logic
+
+**🔧 Engineering Challenges Solved**
+
+| Problem | Solution |
+|---------|----------|
+| SQL degradation on large datasets | Eloquent eager loading + date-range query scopes |
+| PDF download security | Hashed filenames + stored outside public dir + middleware-protected download |
+| Alpine.js reactivity on filter changes | Scoped component data + `x-effect` to watch and re-render |
 
 </details>
 
 ---
 
+<details>
+<summary><b>🛒 &nbsp;4 · E-Commerce System with Laravel</b> &nbsp;—&nbsp; <a href="https://github.com/mahmudpial/Ecommerce_project_with_laravel">GitHub ↗</a></summary>
+<br/>
+
+> **Stack:** &nbsp;`Laravel` &nbsp;`PHP` &nbsp;`MySQL` &nbsp;`Blade` &nbsp;`Bootstrap` &nbsp;`SSLCommerz`
+
+Full-featured e-commerce platform with bifurcated admin/customer architecture, **SSLCommerz payment integration**, wishlist management, product reviews & ratings, cart & checkout, order history, and invoice generation.
+
+</details>
+
+---
+
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  EDUCATION
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+
 ## 🎓 Education
 
 <div align="center">
 
-| 🏫 Degree | 🏛️ Institution | 📅 Year | 🏆 Result |
-|-----------|----------------|---------|-----------|
+| Degree | Institution | Year | Result |
+|--------|-------------|------|--------|
 | **BSc in Computer Science & Engineering** | Daffodil International University, Dhaka | 2018 – 2023 | CGPA **3.14 / 5.00** |
 | **HSC Science** | Rajbari Govt. College | 2015 – 2017 | GPA **4.92 / 5.00** |
-| **SSC Science** | — | — | GPA **5.00 / 5.00** ⭐ |
+| **SSC Science** | Goalunda Nazir Uddin Pilot Govt High School | 2013 - 2015 | GPA **5.00 / 5.00** ⭐ |
 
 </div>
 
-> 📚 **Coursework:** Data Structures & Algorithms · DBMS · Artificial Intelligence · Embedded Systems · Engineering Mathematics · Data Mining · Web Development · OOP
+> 📚 &nbsp;**Coursework:** Data Structures & Algorithms · DBMS · Artificial Intelligence · Embedded Systems · Engineering Mathematics · Data Mining · Web Development · OOP
 
 ---
+
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CERTIFICATIONS
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
 ## 🏅 Certifications & Achievements
 
 <div align="center">
 
-| 🏆 Certificate | 🏛️ Issuer | 📅 Year |
-|----------------|-----------|---------|
+| Certificate | Issuer | Year |
+|-------------|--------|------|
 | 🤖 Make Your First AI Agent with Graphbit | Ostad | 2024 |
 | 🌐 Responsive Web Development | University of London · Coursera | 2024 |
 | 💻 Full Stack Dev — PHP · Laravel · Vue.js | Ostad | 🔄 Ongoing |
@@ -397,12 +390,18 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 ---
 
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  VOLUNTEER
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+
 ## 🌱 Volunteer & Community Impact
 
 **🤝 Active Member — [Ekoj Jagorone](https://www.facebook.com/ekoj.jagorone)** &nbsp;·&nbsp; *2010 – Present*
 
 - 🌳 Organises tree-planting drives and promotes environmental conservation & bird-protection awareness
-- 📢 Hosts the annual **Ekoj Recitation Evening** (Feb 22) bringing recitation groups from across Bangladesh
+- 📢 Hosts the annual **Ekoj Recitation Evening** (Feb 22) — bringing recitation groups from across Bangladesh
 - 🏞️ Leads river protection campaigns & Padma Bridge awareness for communities of Goalundo, Rajbari
 - 🗣️ Participates in debate competitions and poetry recitation events fostering literary culture
 
@@ -415,6 +414,12 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 ---
 
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CONNECT
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+
 ## 🤝 Let's Build Something Together
 
 <div align="center">
@@ -424,9 +429,9 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pial-mahmud/)
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0c1a2e?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://portfolio-and-blog-app-fontend.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0d2137?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://portfolio-and-blog-app-fontend.vercel.app/)
 [![Email](https://img.shields.io/badge/pialmahmud80%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pialmahmud80@gmail.com)
-[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh%20Profile-FC4349?style=for-the-badge&logo=target&logoColor=white)](https://roadmap.sh/u/pialmahmud)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-FC4349?style=for-the-badge&logo=target&logoColor=white)](https://roadmap.sh/u/pialmahmud)
 
 <br/>
 
@@ -434,19 +439,28 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, S
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!--   FOOTER — dark blue gradient matching header, bright text         -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  FOOTER BANNER
+  Dark royal-blue gradient · matches header exactly
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:001433,25:002a52,50:003066,75:002a52,100:001433&height=170&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=32&fontColor=e0f2fe&animation=fadeIn&desc=📧%20pialmahmud80%40gmail.com%20%20%7C%20%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descColor=7dd3fc&descSize=14&descAlignY=74" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1e35,30:0d2137,55:102a45,80:0a1628,100:020c1b&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=36&fontColor=f0f9ff&fontAlignY=42&fontAlign=50&desc=📧%20pialmahmud80%40gmail.com%20%20%7C%20%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descSize=15&descColor=bae6fd&descAlignY=66&descAlign=50&animation=fadeIn" />
 
 <div align="center">
   <sub>
-    Crafted with 💙 by <a href="https://github.com/mahmudpial"><b>Pial Mahmud</b></a>
-    &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩
-    &nbsp;·&nbsp; 📧 <a href="mailto:pialmahmud80@gmail.com">pialmahmud80@gmail.com</a>
-    &nbsp;·&nbsp; <a href="https://portfolio-and-blog-app-fontend.vercel.app/">portfolio ↗</a>
+    Crafted with 💙 by
+    <a href="https://github.com/mahmudpial"><b>Pial Mahmud</b></a>
+    &nbsp;·&nbsp;
+    Dhaka, Bangladesh 🇧🇩
+    &nbsp;·&nbsp;
+    <a href="mailto:pialmahmud80@gmail.com">pialmahmud80@gmail.com</a>
+    &nbsp;·&nbsp;
+    <a href="https://portfolio-and-blog-app-fontend.vercel.app/">portfolio ↗</a>
   </sub>
 </div>
