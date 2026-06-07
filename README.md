@@ -81,9 +81,9 @@ class PialMahmud extends FullStackDeveloper
       "frontend" => ["Vue.js 3","React.js","Inertia.js",
                      "Alpine.js","Tailwind CSS"],
       "database" => ["MySQL","Eloquent ORM",
-                     "Aiven Cloud MySQL"],
+                     "Aiven Cloud MySQL","Supabase Postgres"],
       "devops"   => ["Git","Docker","Vercel",
-                     "Railway","Netlify","Vite"],
+                     "Railway","Render","Netlify","Vite"],
       "patterns" => ["Repository Pattern","MVC",
                      "OOP","CSRF"],
     ];
