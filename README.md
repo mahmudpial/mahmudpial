@@ -73,7 +73,7 @@ class PialMahmud extends FullStackDeveloper
     public string $phone    = "+880-1853-754763";
     public string $degree   =
         "BSc CSE — Daffodil International Uni";
-    public string $cgpa     = "3.14 / 5.00";
+    public string $cgpa     = "3.14 / 4.00";
 
     public array $stack = [
       "backend"  => ["PHP","Laravel 11/12","Node.js",
