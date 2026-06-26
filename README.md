@@ -89,7 +89,7 @@ class PialMahmud extends FullStackDeveloper
     ];
 
     public array $now = [
-        "💼 Web Developer @ Byte Engineer",
+        "💼 Full Stack Web Developer @ Self-Employed",
         "📚 Full Stack PHP+Laravel+Vue.js (Ostad)",
         "🏗️  Mastering Clean Architecture",
         "🚀  Building production SaaS apps",
@@ -138,7 +138,7 @@ class PialMahmud extends FullStackDeveloper
 <tr>
 <td>
 
-### 🏢 Web Developer &nbsp;—&nbsp; Byte Engineer &nbsp;&nbsp; `2023 – Present`
+### 🏢 Full-Stack Web Developer &nbsp;—&nbsp; Self-Employed &nbsp;&nbsp; `2023 – Present`
 
 > Dhaka, Bangladesh
 
@@ -358,7 +358,7 @@ Full-featured e-commerce platform with bifurcated admin/customer architecture, *
 
 | Degree | Institution | Year | Result |
 |--------|-------------|------|--------|
-| **BSc in Computer Science & Engineering** | Daffodil International University, Dhaka | 2018 – 2023 | CGPA **3.14 / 5.00** |
+| **BSc in Computer Science & Engineering** | Daffodil International University, Dhaka | 2018 – 2023 | CGPA **3.14 / 4.00** |
 | **HSC Science** | Rajbari Govt. College | 2015 – 2017 | GPA **4.92 / 5.00** |
 | **SSC Science** | Goalunda Nazir Uddin Pilot Govt High School | 2013 - 2015 | GPA **5.00 / 5.00** ⭐ |
 
