@@ -67,7 +67,7 @@ class PialMahmud extends FullStackDeveloper
 {
     public string $name     = "Pial Mahmud";
     public string $role     = "Full Stack Web Developer";
-    public string $company  = "Byte Engineer";
+    public string $company  = "Self-Employed";
     public string $location = "Dhaka, Bangladesh 🇧🇩";
     public string $email    = "pialmahmud80@gmail.com";
     public string $phone    = "+880-1853-754763";
