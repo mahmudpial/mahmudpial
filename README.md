@@ -20,6 +20,6 @@
 I'm a Backend Software Developer at **Smart Software Ltd** (Panthapath, Dhaka), building server-side applications and APIs with PHP and Laravel. I focus on clean architecture, efficient database design, and secure, well-tested backend systems.
 
 - 🏢 Currently working at **Smart Software Ltd**, Panthapath, Dhaka, Bangladesh
-- 🎓 BSc in Computer Science & Engineering — Daffodil International University (CGPA 3.14/4.00)
+- 🎓 BSc in Computer Science & Engineering — Daffodil International University
 - 🌱 Continuously learning full-stack development (PHP, Laravel, Vue.js)
 - 📫 Reach me at **pialmahmud80@gmail.com**
