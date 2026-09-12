@@ -2,7 +2,7 @@
 
 # Pial Mahmud
 
-### Backend Software Developer
+**Backend Software Developer** | PHP • Laravel • Vue.js • REST API • SQL | Computer Science & Engineering (CSE)
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 💼 Smart Software Ltd, Panthapath, Dhaka
 
