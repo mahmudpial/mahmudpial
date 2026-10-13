@@ -29,4 +29,5 @@ Render · Vercel ·  Supabase · Neon · cPanel · Git / GitHub
 - 💼 LinkedIn: https://www.linkedin.com/in/pial-mahmud/
 - 📧 Email: pialsoftdev@gmail.com
 
-I believe in writing clean code, learning continuously, and building software that makes a meaningful difference.
+
+*I believe in writing clean code, learning continuously, and building software that makes a meaningful difference.*
