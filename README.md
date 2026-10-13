@@ -2,7 +2,7 @@
 
 # Pial Mahmud
 
-**Backend Developer** | PHP & Laravel | Building clean, scalable APIs
+**Software Developer (PHP/Laravel)** | Multi-Tenant SaaS | Secure Backend Systems | REST APIs | MySQL
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 💼 Smart Software Ltd, Panthapath, Dhaka
 
@@ -17,9 +17,16 @@
 
 ## About Me
 
-I'm a Backend Software Developer at **Smart Software Ltd** (Panthapath, Dhaka), building server-side applications and APIs with PHP and Laravel. I focus on clean architecture, efficient database design, and secure, well-tested backend systems.
+I'm Pial Mahmud, a Software Developer specializing in PHP and Laravel, based in Dhaka, Bangladesh. I enjoy designing and developing clean, secure, and scalable backend systems that solve real-world problems. I focus on building RESTful APIs, developing maintainable Laravel applications, working with relational databases, and implementing reliable authentication and authorization workflows. I'm passionate about writing clean code, improving application performance, following good software engineering practices, and continuously expanding my technical knowledge.
 
-- 🏢 Currently working at **Smart Software Ltd**, Panthapath, Dhaka, Bangladesh
-- 🎓 BSc in Computer Science & Engineering — Daffodil International University
-- 🌱 Continuously learning full-stack development (PHP, Laravel, Vue.js)
-- 📫 Reach me at **pialmahmud80@gmail.com**
+
+**Stack:** PHP 8 · Laravel · MySQL/PostgreSQL · Vue 3 · Inertia.js · TypeScript · React · Rest API · Docker
+Render · Vercel ·  Supabase · Neon · cPanel · Git / GitHub
+
+## Connect With Me
+
+- 🌐 Portfolio: https://www.pialsoftdev.me/
+- 💼 LinkedIn: https://www.linkedin.com/in/pial-mahmud/
+- 📧 Email: pialsoftdev@gmail.com
+
+I believe in writing clean code, learning continuously, and building software that makes a meaningful difference.
